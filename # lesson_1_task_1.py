@@ -1,6 +1,3 @@
-# lesson_1_task_5.py
-def print_num(num):
-    print(num)
-
-for _ in range(11):
-    print_num("88005553535")
+# lesson_1_task_1.py
+my_name = "Алексей"
+print(my_name)
