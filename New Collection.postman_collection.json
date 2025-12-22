@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "mu-farma",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "46121736",
+		"_collection_link": "https://aleksei-4021941.postman.co/workspace/123~85f9b324-02b5-44a9-b7a0-aab38c0ef208/collection/46121736-eb41df7b-e13b-407c-a335-9425e0bbbb68?action=share&source=collection_link&creator=46121736"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
